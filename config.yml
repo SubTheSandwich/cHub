@@ -1,0 +1,31 @@
+# Server Selector Config
+
+joinMessage: true
+enderbutts: true
+doublejump: true
+disablechat: true
+Scoreboard:
+    title: SpigotMC
+    maincolor: '&6'
+    secondarycolor: '&e'
+    server-url: spigotmc.org
+    lobby-name: Lobby-1
+height-teleport: 140
+void-teleport: 20
+Servers:
+    Server1:
+        Server1-server-selector-name: 'HCF'
+        Server1-server-lore: 'HCF Network'
+        Server1-server-queue-name: 'hcf'
+    Server2:
+        Server2-server-selector-name: 'Practice'
+        Server2-server-lore: 'Practice Network'
+        Server2-server-queue-name: 'practice'
+defaultWorld: world
+
+
+
+
+
+
+

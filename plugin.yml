@@ -1,0 +1,28 @@
+name: cHub
+description: A hub core.
+authors: [Sub]
+main: me.sub.cHub.Main
+version: 1.0.0
+depend: [ScoreboardLib, Vault, PermissionsEx]
+softdepend: [PlaceholderAPI]
+commands:
+    hub:
+        description: The default hub core command.
+    servergui:
+        description: The default hub core command.
+    stuck:
+        description: The default hub core command.
+    msg:
+        description: The default hub core message command.   
+        aliases: [message, tell, pm]
+    reply:
+        description: The default hub core message command.   
+        aliases: [r, returnmessage]
+    togglepm:
+        description: The default hub core message command.   
+        aliases: [tpm]
+    togglesound:
+        description: The default hub core message command.   
+        aliases: [tms, togglemessagesounds, togglesounds]
+    settings:
+        description: The default hub core settings command.

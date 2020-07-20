@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/me/sub/cHub/Events/JoinScoreboardEvent.java=UTF-8
+encoding//src/me/sub/cHub/Events/LeaveQueueEvent.java=UTF-8
+encoding//src/me/sub/cHub/Events/ServerSelectEvents.java=UTF-8
